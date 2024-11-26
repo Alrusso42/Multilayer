@@ -1,0 +1,5 @@
+[network]
+epochs = 1000
+learning_rate = 0.01
+batch_size = 32
+network = [64, 64]  # nombre de neurones dans les couches cachées
